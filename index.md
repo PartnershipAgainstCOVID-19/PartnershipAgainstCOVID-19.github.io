@@ -1,8 +1,8 @@
 # Partnership against COVID-19
 
 ## Who are we?
-- robo4you - https://robo4you.at/
-- CBYERTEC - Data Science & PostgreSQL - https://www.cybertec-postgresql.com/
+- robo4you - [https://robo4you.at/](https://robo4you.at/)
+- CBYERTEC - Data Science & PostgreSQL - [https://www.cybertec-postgresql.com/](https://www.cybertec-postgresql.com/)
 
 ## How do we help fight COVID-19?
 
@@ -14,14 +14,14 @@ The [BOINC client](https://boinc.berkeley.edu/index.php) works on every PC no ma
 
 ### Install BOINC
 
-Download Link: https://boinc.berkeley.edu/download.php
+Download Link: [https://boinc.berkeley.edu/download.php](https://boinc.berkeley.edu/download.php)
 
 After installing the Software, BOINC will ask you to add a project. Search for Rosetta@Home in the list then click "add". Create an account for the project and then your PC will start downloading new tasks.
 
 ### Join our team: https://boinc.bakerlab.org/rosetta/team_display.php?teamid=19523
 
 #### How to join?
-Login online to the Rosetta project https://boinc.bakerlab.org/rosetta/home.php then click on "Find Team" and search for "Partnership against COVID-19" or go directly to the team and click join: https://boinc.bakerlab.org/rosetta/team_display.php?teamid=19523
+Login online to the Rosetta project [https://boinc.bakerlab.org/rosetta/home.php](https://boinc.bakerlab.org/rosetta/home.php) then click on "Find Team" and search for "Partnership against COVID-19" or go directly to the team and click join: [https://boinc.bakerlab.org/rosetta/team_display.php?teamid=19523](https://boinc.bakerlab.org/rosetta/team_display.php?teamid=19523)
 
 #### For Linux users an package exists for most distributions
 Debian and its derivatives:
