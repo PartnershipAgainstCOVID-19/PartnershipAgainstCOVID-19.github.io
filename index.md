@@ -8,6 +8,12 @@
 
 As COVID-19 is spreading in Austria we use freed up computer resources to help research in predicting protein structures. We use the [BOINC client](https://boinc.berkeley.edu/index.php) developed by the Berkley University and contribute to the [Rosetta@Home project](https://boinc.bakerlab.org/rosetta/).
 
+
+### Results
+"We are happy to report that the Rosetta molecular modeling suite was recently used to accurately predict the atomic-scale structure of an important coronavirus protein weeks before it could be measured in the lab. Knowledge gained from studying this viral protein is now being used to guide the design of novel vaccines and antiviral drugs."
+
+Source: [https://www.ipd.uw.edu/2020/02/rosettas-role-in-fighting-coronavirus/](https://www.ipd.uw.edu/2020/02/rosettas-role-in-fighting-coronavirus/)
+
 ## How can I help?
 
 The [BOINC client](https://boinc.berkeley.edu/index.php) works on every PC no matter how slow. Even android phones can contribute to the research.
@@ -26,6 +32,7 @@ You can configure your client in ```Options``` -> ```Computing Preferences```. <
 #### How to join?
 Login online to the Rosetta project [here](https://boinc.bakerlab.org/rosetta/home.php) then click on "Find Team" and search for "Partnership against COVID-19" or go directly to the team and click join: [on our team page](https://boinc.bakerlab.org/rosetta/team_display.php?teamid=19523)
 
+### Installation on Linux
 #### For Linux users an package exists for most distributions
 For Debian and its derivatives run
 ```bash
