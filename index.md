@@ -27,10 +27,11 @@ You can configure your client in ```Options``` -> ```Computing Preferences```. <
 Login online to the Rosetta project [here](https://boinc.bakerlab.org/rosetta/home.php) then click on "Find Team" and search for "Partnership against COVID-19" or go directly to the team and click join: [on our team page](https://boinc.bakerlab.org/rosetta/team_display.php?teamid=19523)
 
 #### For Linux users an package exists for most distributions
-Debian and its derivatives:
+For Debian and its derivatives run
 ```bash
 sudo apt install boinc
 ```
+and then launch the client and add the rosetta project over the gui.
 
 #### Installing BOINC on a server
 
