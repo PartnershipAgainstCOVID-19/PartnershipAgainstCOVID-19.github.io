@@ -18,7 +18,7 @@ Download Link: [https://boinc.berkeley.edu/download.php](https://boinc.berkeley.
 
 After installing the Software, BOINC will ask you to add a project. Search for Rosetta@Home in the list then click "add". Create an account for the project and then your PC will start downloading new tasks.
 
-### Join our team: https://boinc.bakerlab.org/rosetta/team_display.php?teamid=19523
+### Join our team: [https://boinc.bakerlab.org/rosetta/team_display.php?teamid=19523](https://boinc.bakerlab.org/rosetta/team_display.php?teamid=19523)
 
 #### How to join?
 Login online to the Rosetta project [https://boinc.bakerlab.org/rosetta/home.php](https://boinc.bakerlab.org/rosetta/home.php) then click on "Find Team" and search for "Partnership against COVID-19" or go directly to the team and click join: [https://boinc.bakerlab.org/rosetta/team_display.php?teamid=19523](https://boinc.bakerlab.org/rosetta/team_display.php?teamid=19523)
