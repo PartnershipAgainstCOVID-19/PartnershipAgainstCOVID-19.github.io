@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Partnership against COVID-19
 
-You can use the [editor on GitHub](https://github.com/PartnershipAgainstCOVID-19/PartnershipAgainstCOVID-19.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Who are we?
+- robo4you - https://robo4you.at/
+- CBYERTEC - Data Science & PostgreSQL - https://www.cybertec-postgresql.com/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How do we help fight COVID-19?
 
-### Markdown
+As COVID-19 is spreading in Austria we use freed up computer resources to help research in predicting protein structures. We use the [BOINC client](https://boinc.berkeley.edu/index.php) developed by the Berkley University and contribute to the [Rosetta@Home project](https://boinc.bakerlab.org/rosetta/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How can I help?
 
-```markdown
-Syntax highlighted code block
+The [BOINC client](https://boinc.berkeley.edu/index.php) works on every PC no matter how slow. Even android phones can contribute to the research.
 
-# Header 1
-## Header 2
-### Header 3
+### Install BOINC
 
-- Bulleted
-- List
+Download Link: https://boinc.berkeley.edu/download.php
 
-1. Numbered
-2. List
+After installing the Software, BOINC will ask you to add a project. Search for Rosetta@Home in the list then click "add". Create an account for the project and then your PC will start downloading new tasks.
 
-**Bold** and _Italic_ and `Code` text
+### Join our team: https://boinc.bakerlab.org/rosetta/team_display.php?teamid=19523
 
-[Link](url) and ![Image](src)
+#### How to join?
+Login online to the Rosetta project https://boinc.bakerlab.org/rosetta/home.php then click on "Find Team" and search for "Partnership against COVID-19" or go directly to the team and click join: https://boinc.bakerlab.org/rosetta/team_display.php?teamid=19523
+
+#### For Linux users an package exists for most distributions
+Debian and its derivatives:
+```bash
+sudo apt install boinc
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PartnershipAgainstCOVID-19/PartnershipAgainstCOVID-19.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Recommended settings:
+You can configure your client in ```Options``` -> ```Computing Preferences```.
