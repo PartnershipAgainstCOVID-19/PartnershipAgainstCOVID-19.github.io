@@ -3,11 +3,11 @@
 ## Who are we?
 - robo4you - [https://robo4you.at/](https://robo4you.at/)
 - CBYERTEC - Data Science & PostgreSQL - [https://www.cybertec-postgresql.com/](https://www.cybertec-postgresql.com/)
+- spaceteam TU Wien - [https://spaceteam.at](https://spaceteam.at)
 
 ## How do we help fight COVID-19?
 
 As COVID-19 is spreading in Austria we use freed up computer resources to help research in predicting protein structures. We use the [BOINC client](https://boinc.berkeley.edu/index.php) developed by the Berkley University and contribute to the [Rosetta@Home project](https://boinc.bakerlab.org/rosetta/).
-
 
 ### Results
 "We are happy to report that the Rosetta molecular modeling suite was recently used to accurately predict the atomic-scale structure of an important coronavirus protein weeks before it could be measured in the lab. Knowledge gained from studying this viral protein is now being used to guide the design of novel vaccines and antiviral drugs."
