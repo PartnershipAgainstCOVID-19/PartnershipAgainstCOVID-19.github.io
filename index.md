@@ -2,7 +2,7 @@
 
 ## Who are we?
 - robo4you - [https://robo4you.at/](https://robo4you.at/)
-- CBYERTEC - Data Science & PostgreSQL - [https://www.cybertec-postgresql.com/](https://www.cybertec-postgresql.com/)
+- CYBERTEC - Data Science & PostgreSQL - [https://www.cybertec-postgresql.com/](https://www.cybertec-postgresql.com/)
 - spaceteam TU Wien - [https://spaceteam.at](https://spaceteam.at)
 
 ## How do we help fight COVID-19?
